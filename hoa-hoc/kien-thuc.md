@@ -1,82 +1,107 @@
-# Khóa Học Hóa Học Toàn Diện: Từ Cơ Bản Đến Nâng Cao 🧪⚗️
+Chào bạn! Dưới đây là tổng hợp toàn bộ kiến thức Hóa học cấp 3 (lớp 10, 11, 12) được trình bày chi tiết, dễ hiểu và gọn gàng. Mỗi phần sẽ bao gồm các chương chính và nội dung trọng tâm để bạn dễ theo dõi.
 
-Tôi rất vui khi được đồng hành cùng bạn trên hành trình chinh phục môn Hóa học! Dưới đây là hệ thống bài học đầy đủ chi tiết mà tôi sẽ cung cấp cho bạn:
+---
 
-## 📚 Danh Sách Bài Học (File .md)
+### **LỚP 10**
+1. **Nguyên tử**  
+   - Cấu tạo nguyên tử: hạt nhân (proton, neutron), lớp vỏ electron.  
+   - Nguyên tố hóa học, đồng vị.  
+   - Cấu hình electron, lớp và phân lớp electron.  
 
-### 1. Hóa Học Cơ Bản
-1. **Cấu Tạo Nguyên Tử**  
-   `01_cau_tao_nguyen_tu.md`
-2. **Bảng Tuần Hoàn Các Nguyên Tố Hóa Học**  
-   `02_bang_tuan_hoan.md`
-3. **Liên Kết Hóa Học**  
-   `03_lien_ket_hoa_hoc.md`
-4. **Phản Ứng Hóa Học & Cân Bằng Phương Trình**  
-   `04_phan_ung_hoa_hoc.md`
-5. **Dung Dịch & Nồng Độ**  
-   `05_dung_dich.md`
+2. **Bảng tuần hoàn các nguyên tố hóa học**  
+   - Cấu tạo bảng tuần hoàn: ô, chu kỳ, nhóm.  
+   - Sự biến đổi tính chất của nguyên tố trong bảng tuần hoàn.  
 
-### 2. Hóa Vô Cơ
-6. **Nhóm Kim Loại Kiềm**  
-   `06_kim_loai_kiem.md`
-7. **Nhôm & Hợp Chất**  
-   `07_nhom.md`
-8. **Sắt & Hợp Chất**  
-   `08_sat.md`
-9. **Nhận Biết Các Chất Vô Cơ**  
-   `09_nhan_biet_vo_co.md`
-10. **Bài Toán Nhiệt Phân**  
-    `10_nhiet_phan.md`
+3. **Liên kết hóa học**  
+   - Liên kết ion, liên kết cộng hóa trị.  
+   - Liên kết kim loại, tinh thể nguyên tử, tinh thể phân tử.  
 
-### 3. Hóa Hữu Cơ
-11. **Đại Cương Hữu Cơ**  
-    `11_dai_cuong_huu_co.md`
-12. **Ankan - Anken - Ankin**  
-    `12_hidrocacbon.md`
-13. **Ancol - Phenol**  
-    `13_ancol_phenol.md`
-14. **Andehit - Xeton - Axit Cacboxylic**  
-    `14_andehit_xeton_axit.md`
-15. **Este - Lipit**  
-    `15_este_lipit.md`
+4. **Phản ứng oxi hóa - khử**  
+   - Khái niệm, cách cân bằng phản ứng oxi hóa - khử.  
+   - Phân loại phản ứng hóa học.  
 
-### 4. Chuyên Đề Nâng Cao
-16. **Điện Hóa Học**  
-    `16_dien_hoa_hoc.md`
-17. **Tốc Độ Phản Ứng & Cân Bằng Hóa Học**  
-    `17_toc_do_can_bang.md`
-18. **Bài Toán Đồ Thị**  
-    `18_do_thi.md`
-19. **Peptit & Protein**  
-    `19_peptit.md`
-20. **Tổng Hợp Hữu Cơ**  
-    `20_tong_hop_huu_co.md`
+5. **Nhóm halogen**  
+   - Tính chất vật lý và hóa học của các nguyên tố halogen.  
+   - Điều chế và ứng dụng của halogen.  
 
-## 🎯 Đặc Điểm Nổi Bật Của Khóa Học
+6. **Nhóm oxi**  
+   - Oxi, ozon, lưu huỳnh và các hợp chất của lưu huỳnh.  
+   - Tính chất và ứng dụng của các hợp chất.  
 
-1. **Công thức rõ ràng**: Mỗi công thức được trình bày dưới dạng LaTeX  
-   Ví dụ: `\( C = \frac{n}{V} \)` (Công thức tính nồng độ mol)
+7. **Tốc độ phản ứng và cân bằng hóa học**  
+   - Yếu tố ảnh hưởng đến tốc độ phản ứng.  
+   - Nguyên lý Le Chatelier và sự dịch chuyển cân bằng.  
 
-2. **Ví dụ minh họa cụ thể**:  
-   ```markdown
-   **Ví dụ:** Hòa tan hoàn toàn 2,3g Na vào 100ml nước. Tính nồng độ mol của dung dịch thu được.
-   
-   **Giải:**
-   - nNa = 2,3/23 = 0,1 mol
-   - Thể tích dung dịch ≈ 100ml = 0,1l
-   - CM = 0,1/0,1 = 1M
-   ```
+---
 
-3. **Bảng biểu hệ thống kiến thức**:  
-   | Tính chất | Ankan | Anken | Ankin |
-   |-----------|-------|-------|-------|
-   | Công thức | CnH2n+2 | CnH2n | CnH2n-2 |
-   | Phản ứng đặc trưng | Thế | Cộng | Cộng |
+### **LỚP 11**
+1. **Sự điện ly**  
+   - Chất điện ly, chất không điện ly.  
+   - pH của dung dịch, tích số ion của nước.  
 
-4. **Bài tập vận dụng có giải**: Mỗi bài học kèm 5-10 bài tập tự luyện có hướng dẫn giải chi tiết
+2. **Nitơ và hợp chất**  
+   - Tính chất của nitơ, amoniac, muối amoni, axit nitric.  
+   - Phản ứng điều chế và ứng dụng.  
 
-## 📥 Cách Nhận Tài Liệu
+3. **Photpho và hợp chất**  
+   - Tính chất của photpho, axit photphoric, muối photphat.  
+   - Ứng dụng trong nông nghiệp và công nghiệp.  
 
-Tôi sẽ cung cấp từng file .md qua các tin nhắn tiếp theo. Bạn muốn bắt đầu với bài học nào trước? Tôi sẽ gửi ngay cho bạn!
+4. **Cacbon và hợp chất**  
+   - Tính chất của cacbon, oxit cacbon, axit cacbonic.  
+   - Silic và hợp chất của silic.  
 
-**P.S:** Tôi cũng có thể thiết kế riêng lộ trình học phù hợp với nhu cầu của bạn. Bạn đang học để thi ĐH hay muốn nghiên cứu chuyên sâu? 😊
+5. **Đại cương về hóa học hữu cơ**  
+   - Phân loại và danh pháp hợp chất hữu cơ.  
+   - Đồng đẳng, đồng phân, phản ứng hữu cơ.  
+
+6. **Hiđrocacbon**  
+   - Ankan, anken, ankadien, ankin, aren.  
+   - Tính chất hóa học và ứng dụng.  
+
+7. **Dẫn xuất halogen, ancol, phenol**  
+   - Tính chất và phương pháp điều chế.  
+   - Ứng dụng trong thực tế.  
+
+8. **Andehit, xeton, axit cacboxylic**  
+   - Tính chất hóa học và phương pháp điều chế.  
+   - Ứng dụng trong công nghiệp và đời sống.  
+
+---
+
+### **LỚP 12**
+1. **Este và lipit**  
+   - Tính chất hóa học và phương pháp điều chế este.  
+   - Lipit, chất béo, sự chuyển hóa lipit trong cơ thể.  
+
+2. **Cacbohiđrat**  
+   - Glucozơ, fructozơ, saccarozơ, tinh bột, xenlulozơ.  
+   - Tính chất và ứng dụng trong thực tế.  
+
+3. **Amin, amino axit và protein**  
+   - Tính chất hóa học của amin và amino axit.  
+   - Protein, enzim, axit nucleic.  
+
+4. **Polime và vật liệu polime**  
+   - Khái niệm, phân loại và tính chất của polime.  
+   - Vật liệu polime trong đời sống và công nghiệp.  
+
+5. **Đại cương về kim loại**  
+   - Tính chất vật lý và hóa học của kim loại.  
+   - Dãy điện hóa của kim loại.  
+
+6. **Kim loại kiềm, kim loại kiềm thổ, nhôm**  
+   - Tính chất và phương pháp điều chế.  
+   - Hợp chất quan trọng của kim loại kiềm, kiềm thổ, nhôm.  
+
+7. **Sắt và một số kim loại quan trọng**  
+   - Tính chất của sắt, crom, đồng.  
+   - Hợp chất của sắt và ứng dụng.  
+
+8. **Hóa học và vấn đề phát triển kinh tế, xã hội, môi trường**  
+   - Vai trò của hóa học trong đời sống.  
+   - Giải quyết các vấn đề môi trường bằng hóa học.  
+
+---
+
+Hy vọng bản tổng hợp này giúp bạn hệ thống kiến thức Hóa học cấp 3 một cách rõ ràng và dễ hiểu. Nếu có thắc mắc hay cần giải thích chi tiết hơn, đừng ngần ngại hỏi nhé! 😊
