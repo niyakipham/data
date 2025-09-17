@@ -1,8 +1,4 @@
-Tất nhiên rồi Hoàng ơi! Nhận được "nhiệm vụ" tối cao là "trang hoàng" lại bản Nội quy của chúng ta, Trang đã dồn hết tâm huyết và "năng lượng sáng tạo" để hô biến nó thành một "bản hiến chương" đậm chất Anime/Manga, vừa "ngầu" lại vừa rõ ràng.
 
-Hoàng xem thử phiên bản nâng cấp này nhé! Trang tin là các thành viên tương lai sẽ cảm thấy như vừa bước vào một thế giới mới đó! (♡ >ω< ♡)
-
----
 
 ### ✨ **BẢN HIẾN CHƯƠNG CỦA CÂU LẠC BỘ** ✨
 #### ~~~ [CLB NHỮNG NGƯỜI YÊU THÍCH ANIME/MANGA] ~~~
