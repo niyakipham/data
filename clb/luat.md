@@ -1,82 +1,64 @@
+Tất nhiên rồi Hoàng ơi! Nhận được "nhiệm vụ" tối cao là "trang hoàng" lại bản Nội quy của chúng ta, Trang đã dồn hết tâm huyết và "năng lượng sáng tạo" để hô biến nó thành một "bản hiến chương" đậm chất Anime/Manga, vừa "ngầu" lại vừa rõ ràng.
 
-
-# ✨📜 **NỘI QUY VÀNG CỦA CỘNG ĐỒNG ANIME/MANGA** 📜✨
-
-> Chào mừng đến với ngôi nhà chung của chúng ta! Để cùng nhau xây dựng một cộng đồng lành mạnh, sôi nổi và đầy cảm hứng, hãy cùng tuân thủ những quy tắc dưới đây. Tinh thần tôn trọng, chia sẻ và sáng tạo là kim chỉ nam cho mọi hoạt động của chúng ta.
-
-💡✨•─────•『 **PHẦN 1: QUY TẮC NỀN TẢNG** 』•─────•✨💡
-
-### 
-**🎨 1. TINH THẦN CỘNG ĐỒNG**
-*   ✅ **Tuân Thủ Tuyệt Đối:** Mọi thành viên phải tuân thủ nội quy. Bất kỳ hành vi vi phạm nào cũng có thể dẫn đến các hình thức xử lý tương ứng.
-*   🤝 **Khuyến Khích Tương Tác:** Hãy tích cực tham gia, chia sẻ kiến thức và hỗ trợ các thành viên khác để xây dựng một cộng đồng vững mạnh.
-*   🔒 **Bảo Vệ Thông Tin Cá Nhân:** Tuyệt đối không chia sẻ thông tin cá nhân (số điện thoại, địa chỉ, email...) của bản thân hoặc của người khác.
-*   🚫 **Cấm Quảng Cáo:** Không đăng tải các nội dung quảng cáo, spam không liên quan đến chủ đề của cộng đồng.
-
----
-💡✨•─────•『 **PHẦN 2: BÀI VIẾT & NỘI DUNG** 』•─────•✨💡
-
-### **✍️ 2. CHIA SẺ SÁNG TẠO & CHẤT LƯỢNG**
-> Mọi nội dung chia sẻ là bộ mặt của cộng đồng. Hãy đảm bảo mỗi bài viết đều mang lại giá trị và tuân thủ các tiêu chuẩn sau:
-
-| TIÊU CHÍ | QUY ĐỊNH CHI TIẾT |
-| :--- | :--- |
-|  tần suất | 🔹 **Hạn Chế Spam:** Mỗi thành viên đăng tối đa **02** bài/ngày. |
-|  nội dung| 🔹 **Sáng Tạo & Tích Cực:** Ưu tiên nội dung chất lượng, độc đáo, không đăng lại bài viết cũ. |
-|  chất lượng | 🔹 **Hình Ảnh & Video:** Độ phân giải tối thiểu là **720p**. |
-|   chủ đề  | 🔹 **Đúng Chuyên Môn:** Chỉ chia sẻ về **Anime, Manga, Cosplay** và các chủ đề liên quan. |
+Hoàng xem thử phiên bản nâng cấp này nhé! Trang tin là các thành viên tương lai sẽ cảm thấy như vừa bước vào một thế giới mới đó! (♡ >ω< ♡)
 
 ---
 
-### **⚠️ 3. BẢN QUYỀN VÀ NỘI DUNG NHẠY CẢM**
+### ✨ **BẢN HIẾN CHƯƠNG CỦA CÂU LẠC BỘ** ✨
+#### ~~~ [CLB NHỮNG NGƯỜI YÊU THÍCH ANIME/MANGA] ~~~
+> **⚜️ T R U YỀ N T H Y Ế T B Ắ T Đ Ầ U ⚜️**
 
-*   ©️ **Tôn Trọng Bản Quyền:** Không sao chép, chia sẻ nội dung không có nguồn gốc rõ ràng hoặc vi phạm bản quyền.
-*   🔞 **Nội Dung Cấm:** Nghiêm cấm mọi hình thức đăng tải nội dung NSFW (không an toàn khi xem tại nơi làm việc), hoặc các chủ đề nhạy cảm, gây tranh cãi (chính trị, tôn giáo...).
-*    Spoiler **Bảo Vệ Trải Nghiệm Chung:**
-    *   **Phải** có cảnh báo **[SPOILER]** ở đầu tiêu đề nếu nội dung tiết lộ trước tình tiết.
-    *   Nghiêm cấm spoil trong vòng **07 ngày** kể từ khi tập/chương mới được phát hành chính thức.
+📜✨•─────•『 **NỘI QUY CLB** 』•─────•✨📜
 
----
-💡✨•─────•『 **PHẦN 3: VĂN HÓA THẢO LUẬN** 』•─────•✨💡
+### 🗺️ **ĐIỀU 1: SỨ MỆNH & TÍN NGƯỠNG OTAKU**
+(Mục đích & Tôn chỉ)
 
-### **💬 4. BÌNH LUẬN VĂN MINH & TÔN TRỌNG**
-
-> Mỗi bình luận là một viên gạch xây dựng nên văn hóa của cộng đồng. Hãy đảm bảo mọi tương tác đều dựa trên sự tôn trọng lẫn nhau.
-
-*   🎯 **Tính Liên Quan:** Bình luận cần đi thẳng vào vấn đề, mang tính xây dựng, tránh lạc đề.
-*   💖 **Tôn Trọng Quan Điểm:** Tôn trọng ý kiến đa chiều, không phân biệt giới tính, văn hóa hay quan điểm cá nhân.
-*   🚫 **Cấm Hành Vi Tiêu Cực:**
-    *   Nghiêm cấm bình luận **xúc phạm, đe dọa, quấy rối, gây chia rẽ** hoặc **chỉ trích mà không mang tính xây dựng**.
-    *   Mọi hành vi tiêu cực nhắm vào thành viên khác sẽ không được chấp nhận.
-
-*   🛡️ **Quyền Báo Cáo:** Mọi thành viên đều có quyền và được khuyến khích báo cáo (report) các bình luận không phù hợp để quản trị viên xử lý.
-
----
-💡✨•─────•『 **PHẦN 4: CÁC QUY ĐỊNH KHÁC** 』•─────•✨💡
-
-### **⏰ 5. THỜI GIAN & HOẠT ĐỘNG**
-
-*   **Tần suất tham gia:** Khuyến khích tham gia thảo luận ít nhất **01 lần/tuần** để duy trì hoạt động.
-*   **Thời gian đăng bài:** Cần đợi **2-4 giờ** trước khi đăng lại các nội dung có chủ đề tương tự.
-*   **Phản hồi của Quản trị viên:** Quản trị viên sẽ phản hồi các báo cáo hoặc thắc mắc trong vòng **72 giờ**.
-
-### **⚖️ 6. TUÂN THỦ PHÁP LUẬT**
-
-*   Nghiêm cấm mọi hoạt động **giao dịch bất hợp pháp, lừa đảo, cung cấp thông tin giả mạo** nhằm mục đích trục lợi hoặc gây hại cho cộng đồng.
-
-### **📝 7. ĐÓNG GÓP & PHẢN HỒI**
-
-*   Mọi thành viên đều được khuyến khích gửi phản hồi, góp ý về nội quy hoặc các hoạt động để giúp cộng đồng ngày càng phát triển.
-
----
-💡✨•─────•『 **PHẦN 5: CÁCH THỨC XỬ LÝ VI PHẠM** 』•─────•✨💡
-
-> Mọi vi phạm sẽ được xử lý một cách công bằng và minh bạch để đảm bảo một môi trường trong sạch. Các hình thức có thể được cộng dồn tùy theo mức độ và tần suất.
-
-1.  🟡 **Cảnh Cáo:** Áp dụng cho các vi phạm lần đầu, mang tính nhắc nhở. Vi phạm sẽ được ghi nhận.
-2.  🟠 **Tạm Đình Chỉ:** Dành cho các vi phạm lặp lại. Tài khoản có thể bị tạm khóa trong một thời gian nhất định.
-3.  🔴 **Cấm Vĩnh Viễn:** Đối với các vi phạm nghiêm trọng, tái phạm nhiều lần hoặc có hành vi gây hại nghiêm trọng đến cộng đồng. Tài khoản sẽ bị đưa vào danh sách đen.
+> *   🔹 **Kiến tạo một "Isekai" thu nhỏ:** Nơi đây là một sân chơi, một thế giới chung lành mạnh, sáng tạo và cháy bỏng đam mê dành cho tất cả những trái tim yêu thích văn hóa Anime/Manga.
+> *   ✨ **Thúc đẩy tinh thần chia sẻ:** Khuyến khích học hỏi, giao lưu kiến thức về văn hóa Nhật Bản và các kỹ năng sáng tạo như vẽ manga, viết light novel, cosplay, edit AMV,...
+> *   💖 **Xây dựng một "Gia tộc" (Family):** Một cộng đồng gắn kết, nơi mỗi thành viên có thể tự do thể hiện cá tính, phát huy hết tiềm năng và tìm thấy những người bạn tâm giao đích thực.
 
 ---
 
-Cảm ơn vì đã cùng nhau chung tay xây dựng một cộng đồng tuyệt vời! (≧◡≦) ♡
+### 👥 **ĐIỀU 2: PHẠM VI ẢNH HƯỞNG & ĐỒNG MINH**
+(Đối tượng & Phạm vi áp dụng)
+
+> *   Bản giao ước này áp dụng cho toàn thể **Thành viên Chính thức (Seishiki Menbā)** và **Cộng tác viên (Kyōryokusha)** của CLB.
+> *   Cũng như tất cả **Khách mời (Gesuto)** đến tham dự các buổi offline, sự kiện, workshop và các hoạt động khác do CLB tổ chức.
+
+---
+
+### ⛩️ **ĐIỀU 3: "LUẬT LỆ NGẦM" CỦA CÁC CHIẾN BINH VĂN HÓA**
+(Quy tắc ứng xử)
+
+> > Mọi hoạt động của CLB đều dựa trên tinh thần cốt lõi:
+> > **Đam mê - Tự nguyện - Tôn trọng - Đoàn kết - Công bằng & Văn minh**
+
+> 1.  **Tinh Thần Trách Nhiệm (Seishin):**
+>     *   Thành viên có trách nhiệm tham gia các buổi sinh hoạt định kỳ. Nếu có lý do chính đáng (bận học, việc gia đình,...), vui lòng báo trước cho Ban Quản lý. (Vui lòng không "AFK" mà không báo trước nhé!)
+>     *   Hoàn thành phí thành viên (nếu có) đầy đủ và đúng hạn để duy trì "nguồn ma lực" cho các hoạt động chung của chúng ta.
+>
+> 2.  **Văn Hóa Giao Tiếp (Bunka):**
+>     *   Luôn giữ thái độ lịch sự, hòa đồng. **TÔN TRỌNG GU CỦA NHAU - NO TOXIC!** Mỗi người đều có "waifu", "husbando" và "bộ anime chân ái" riêng.
+>     *   Thảo luận và tranh luận một cách văn minh, không công kích cá nhân, không gây chiến.
+>     *   ⚠️ **CẢNH BÁO SPOILER CẤP ĐỘ "VŨ TRỤ"!**: Nghiêm cấm hành vi tiết lộ trước nội dung (spoil) khi chưa được sự đồng ý của mọi người hoặc không đặt cảnh báo rõ ràng. Hãy là một "spoiler" có tâm!
+>
+> 3.  **Trong Hoạt Động Chung (Katsudō):**
+>     *   Trang phục lịch sự, gọn gàng (khuyến khích cosplay nếu phù hợp với chủ đề sự kiện để tăng phần "hòa nhập"!).
+>     *   ⛔ **KHU VỰC CẤM:** Hút thuốc, sử dụng rượu bia và chất kích thích, cờ bạc, hành vi thiếu văn hóa, suồng sã, không phù hợp.
+>     *   Nói không với việc tuyên truyền, phát tán văn hóa phẩm sai trái, thông tin không chính xác hoặc các hoạt động vi phạm pháp luật.
+>     *   Luôn ý thức giữ gìn vệ sinh, trật tự và bảo vệ "thánh địa" sinh hoạt của CLB.
+
+---
+
+### ⚙️ **ĐIỀU 4: BỘ MÁY VẬN HÀNH & HỆ THỐNG THỰC THI**
+(Tổ chức thực hiện)
+
+> *   Ban Quản lý (Kanri-bu) và các Trưởng nhóm (Chīmurīdā) có trách nhiệm phổ biến, giải thích và làm gương trong việc thực hiện "Hiến Chương" này.
+> *   🛡️ **Thực thi Giao Ước:** Mọi thành viên **phải tuân thủ nghiêm túc**. Bất kỳ hành vi vi phạm nào, tùy theo mức độ, sẽ bị nhắc nhở hoặc xử lý theo quy định. Hình thức cao nhất có thể là "trục xuất khỏi vương quốc" (mời ra khỏi CLB) để bảo vệ môi trường chung trong sạch, lành mạnh.
+> *   Bản Hiến Chương này có hiệu lực ngay từ ngày ban hành và sẽ được "nâng cấp phiên bản" khi cần thiết để phù hợp hơn với sự phát triển của CLB.
+
+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+
+---
+⭐•──────────•⚜️🛡️⚜️•──────────•⭐
+
